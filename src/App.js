@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/navbar';
 import Forms from './components/input';
 import Cards from './components/output';
+import React from 'react';
 
 function App() {
   return (
